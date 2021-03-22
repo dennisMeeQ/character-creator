@@ -24,3 +24,18 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+h2 {
+  padding-bottom: 16px;
+}
+
+.overflow {
+  overflow: auto;
+  margin-left: -16px;
+  margin-right: -16px;
+}
+
+.inline {
+  display: inline-block;
+  white-space: nowrap;
+}
